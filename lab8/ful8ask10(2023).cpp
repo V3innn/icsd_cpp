@@ -60,6 +60,6 @@ public:
 };
 
 int main() {
-    An8rwpos *p = new Ka8hghths("Kwstikas Kwstopoulos","C", "logikh", "AntiGamwmanos", "Peologia", 69, "VGES");
+    An8rwpos *p = new Ka8hghths("Kwstikas Kwstopoulos","C", "logikh", "AntiG", "C.S.", 69, "VGES");
     p->display();
 }
