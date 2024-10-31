@@ -1,6 +1,7 @@
 # icsd_C++
 
-These was my exercises for the C++ lab for icsd during the 2022-2023 year.\
-They are uploaded as a cheatsheet when someone gets stuck to find out why.\
-I wish they would help you.\
-Have fun! 😁
+Here's a refined version of your text:
+
+> These were my exercises for the C++ lab in ICSD during the 2022-2023 year.  
+> I've uploaded them as a cheat sheet to help anyone who might get stuck.  
+> Hope they’re helpful! Have fun! 😁
