@@ -42,7 +42,7 @@ public:
 int main()
 {
     Karta card;
-    card.setvalues("aris sarras","1234567890",500);
+    card.setvalues("It's V3in","1234567890",500);
     card.charge(250);
     card.refund(150);
     card.charge(100);
